@@ -4,6 +4,8 @@ import Home from './Home'
 function HomeT() {
   return (
     <div>
+        <Top/>
+      <p>About</p>
     </div>
   )
 }
